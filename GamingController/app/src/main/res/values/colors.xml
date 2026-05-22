@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="primary">#FF2196F3</color>
+    <color name="secondary">#FF9C27B0</color>
+    <color name="button_a">#FF4CAF50</color>
+    <color name="button_b">#FFF44336</color>
+    <color name="button_x">#FF2196F3</color>
+    <color name="button_y">#FFFFEB3B</color>
+    <color name="stick_color">#FF424242</color>
+    <color name="stick_active">#FF2196F3</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+</resources>

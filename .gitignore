@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+*.dSYM
+*.dSYM.zip
+MacControllerApp.app/
+
+# Android
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+
+# Swift
+.build/
+Package.resolved
+
+# Editor
+.omc/
+.claude/
+.vscode/
+*.swp
+*.swo
+
+# Other
+MacControllerServer/
