@@ -2,7 +2,7 @@
 .DS_Store
 *.dSYM
 *.dSYM.zip
-MacControllerApp.app/
+# MacControllerApp.app/
 
 # Android
 .gradle/
